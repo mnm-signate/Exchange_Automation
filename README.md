@@ -1,7 +1,7 @@
 test_ckct
 ==============================
 
-test
+test_morikawa
 
 Project Organization
 ------------
