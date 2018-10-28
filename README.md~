@@ -1,7 +1,7 @@
-Exchage_Automation
-============================
+test_ckct
+==============================
 
-仮想通貨取引を自動化し、億り人になることを目的としたプログラム
+test
 
 Project Organization
 ------------
@@ -54,9 +54,4 @@ Project Organization
 
 --------
 
-# 用語
-- 買い残高：信用取引によって買い付けた場合の、まだ決済（お金の返済）されずに残っている額。
-- 売り残高：信用売りされたまま、まだ決済されずに残っている金額。
-- ポジション：買い残高と売り残高の”どちらが多いのか（傾き）”を表す金融専門用語です。例えば自分が米ドル円を「買いで10万通貨」「売りで5万通貨」もっていた場合, 自分のドル円ポジションは『買いポジションorロングポジション』となる。
-
-
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
